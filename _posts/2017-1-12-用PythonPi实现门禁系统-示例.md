@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 分布式智能控制之门禁-示例
+title: 用PythonPi实现门禁系统-示例
 date: 2017-1-12
 ---
 和[分布式智能控制系统](http://115.29.52.95/forum.php?mod=forumdisplay&fid=40)类似，首先实现了Python接口的API，基于图形界面的管理界面以后视情况提供。
