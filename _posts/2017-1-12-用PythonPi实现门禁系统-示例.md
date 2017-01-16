@@ -9,7 +9,7 @@ date: 2017-1-12
 
 ![rc522接线图](http://course.pythonpi.top:10008/images/rc522.png)
 
-这个示例是用树莓派的spi接口连接了一个rc522读卡器，以15号gpio口连接了一个led作为电锁动作的指示，15号gpio口连接了一个开关按钮作为出门按钮，1号gpio口连接了一个开关按钮模拟门状态。实现代码如下：
+这个示例是用树莓派的spi接口连接了一个rc522读卡器，以15号gpio口连接了一个led作为电锁动作的指示，16号gpio口连接了一个开关按钮作为出门按钮，1号gpio口连接了一个开关按钮模拟门状态。实现代码如下：
 
     from cn.ijingxi.corpuscle.python import active
     from cn.ijingxi.corpuscle.python import input
