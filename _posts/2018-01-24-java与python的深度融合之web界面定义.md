@@ -47,7 +47,7 @@ date: 2018-01-24
 
 显示效果：
 
-    ![显示效果](http://course.pythonpi.top:10008/images/webControlText.png)
+![显示效果](http://course.pythonpi.top:10008/images/webControlText.png)
 
 - button：按钮，点击即可自动执行脚本中的相应函数并完成参数的动态赋值
 
@@ -82,7 +82,7 @@ date: 2018-01-24
 
 显示效果(表中的数据已被刷新了，注意人名一列的标记)：
 
-    ![显示效果](http://course.pythonpi.top:10008/images/webControlButton.png)
+![显示效果](http://course.pythonpi.top:10008/images/webControlButton.png)
 
 - dtpicker：日期时间选择器
 
@@ -131,7 +131,7 @@ date: 2018-01-24
 
 显示效果：
 
-    ![显示效果](http://course.pythonpi.top:10008/images/webControlTree.png)
+![显示效果](http://course.pythonpi.top:10008/images/webControlTree.png)
 
 而在增加这些控件之时，其扩展是平台无关的，也就是说，在平台的相关支撑工作做完后，所有的控件定义是在javascript脚本中实现的，使用则是在python脚本中，所以在我增加这些界面控件时，后台服务一直运行着，两边的脚本写好了，随时刷一下页面就可以看到效果而不需要重启服务即实现了新增控件的扩展:)
 
